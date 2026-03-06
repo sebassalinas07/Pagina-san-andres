@@ -10,6 +10,4 @@ Este proyecto es una página web informativa sobre la isla de San Andrés.
 Demo del proyecto:
 https://sebassalinas07.github.io/Pagina-san-andres/
 
-## Repositorio
-Código del proyecto:
-https://github.com/sebassalinas07/Pagina-san-andres
+
